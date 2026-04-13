@@ -1,0 +1,5 @@
+torch>=2.2.0
+torchvision
+wandb>=0.16.0
+ipykernel>=6.0.0
+jupyter>=1.0.0
