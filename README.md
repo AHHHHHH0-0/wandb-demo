@@ -1,9 +1,10 @@
 # Weight & Biases Workshop by Data@UCI
 
-We will train a CNN model on MNIST to learn how to use [Weights & Biases](https://wandb.ai) for experiment tracking. You will gain hands-on experience in:
+We will learn how to use [Weights & Biases](https://wandb.ai) for experiment tracking and hyperparameter sweeps. You will gain hands-on experience in:
 - live loss and accuracy curves
 - hyperparameter logging
 - artifact versioning
+- hyperparameter tuning w/ sweep
 
 ## Prerequisites
 
